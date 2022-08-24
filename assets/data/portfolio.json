@@ -1,38 +1,55 @@
 {
   "experiences": [
     {
-      "title": "Web Developer (Angular) ",
-      "companyName": "Dadekavan",
+      "title": "Web Developer (Angular)",
+      "companyName": "Arman IT-Banking (Export Development Bank Iran)",
       "type": "Full-Time",
-      "date": "Aug 2021 - Present · 9 mos",
+      "date": "2021 - Present",
       "location": "Tehran Province, Iran",
       "descriptions": [
-        "Develop some modules",
-        "Refactor & maintenance current codes"
+        "Create Interceptor for http requests for error-handling & so on",
+        "Refactoring T-D form to Reactive & set it’s validations",
+        "Using Resolver to set dropdown’s data before initial component",
+        "Utilization of modal as a component in order to get description",
+        "Create Enum of type for selector & input type inside component",
+        "Replace Interface/Class instead of any type",
+        "Using Pipe as a time transformer for remaining seconds in OTP",
+        "Benefit of Services to get data from server using by Rest APIs"
       ]
     },
     {
-      "title": "Full StackDeveloper",
-      "companyName": "Research Center for Developing Advanced Technologies",
+      "title": "Web Developer (Angular)",
+      "companyName": "Dadekavan-Travelling",
       "type": "Full-Time",
-      "date": "Aug 2021 - Present · 9 mos",
+      "date": "2020 - 2021 · 6 mos",
       "location": "Tehran Province, Iran",
       "descriptions": [
-        "Design BI dashboard for analyze data usign d3.js",
-        "Design ,engineer and consulting graph-document database (orientdb) with indexing on nodes-edges",
-        "Implement a complex service-oriented architecture with node js and wcf",
-        "Develope Rest Api with nodejs and redis caching for querying on elasticsearch db",
-        "Produce and development of desktop apps with C# language and SqlServer"
+        "Refactor & maintenance old components such as HTML, TS & CSS",
+        "Tutorial Git & Angular principles to teammates",
+        "Manage project’s tasks by Azure DevOps on it’s boards"
       ]
     },
     {
       "title": "Web Developer",
       "companyName": "Iran Cyber Monitor",
       "type": "Part-Time",
-      "date": "Aug 2021 - Present · 9 mos",
+      "date": "May 2019 - Aug 2019 · 3 mos",
       "location": "Tehran Province, Iran",
       "descriptions": [
-        "Design, maintain, document and implement custom Angular single page and e-Commerce websites for its clients. Responsibilities included all aspects of web development to analytics, graphics, ui and ux"
+        "Design, maintain, document and also implement e-commerce website using Angular & also Bootstrap included analytics, graphics"
+      ]
+    },
+    {
+      "title": "Full Stack Developer",
+      "companyName": "Research Center for Developing Advanced Technologies",
+      "type": "Full-Time",
+      "date": "2010 - 2021 · 10 years",
+      "location": "Tehran Province, Iran",
+      "descriptions": [
+        "Design BI dashboard for analyze data using d3.js",
+        "Design, engineer & consulting graph-document database using by Orientdb with indexing on nodes-edges",
+        "Implement a complex service-oriented architecture with Nodejs and WCF, that managed by Jira",
+        "Develope Rest Api with Nodejs & Redis caching for querying on Elasticsearchdb by Postman "
       ]
     }
   ],
@@ -111,7 +128,7 @@
       "img": ""
     }
   ],
-  "contact-info": [
+  "contactInfo": [
     {
       "img": "",
       "title": "hossein.ganjyar@gmail.com"
@@ -125,10 +142,15 @@
       "title": "Tehran, Iran"
     }
   ],
-  "language": [
+  "languages": [
     {
-      "name": "ielts",
-      "score": "6.0"
+      "name": "english",
+      "level": "IELTS (6.0)"
+    },
+    {
+      "name": "farsi",
+      "isNative": true
     }
-  ]
+  ],
+  "interesting": "I love my career and prefer to work as a team to in order to improve my team-wok abilities. Also, I'd like to learner new things. I believe that diligent and hard-working people can achieve their goals so I build my life base on this rule so I never give up in tough situations until I gain to my aims."
 }
